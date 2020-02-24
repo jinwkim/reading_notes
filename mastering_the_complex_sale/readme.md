@@ -1,4 +1,5 @@
 # Mastering the Complex Sale
+Author: Jeff Thull
 Key points from reading
 
 ## Notes

@@ -1,3 +1,6 @@
+# Swipe to Unlock
+Authors: Aditya Agashe, Neel Mehta, and Parth Detroja
+Recommended book for understanding high-level ideas of product management, latest tech trends
 
 ## Chapter 1 - Software Development
 * Google - Search
