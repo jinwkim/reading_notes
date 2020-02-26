@@ -42,6 +42,7 @@ Recommended prep book for PM interviews
 
 ### CIRCLES Method
 * Comprehend the situation
+* Identify the customer
 * Report the customer’s needs
 * Cut, through prioritization
 * List solutions
