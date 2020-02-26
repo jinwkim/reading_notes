@@ -9,7 +9,7 @@ Recommended prep book for PM interviews
 * Explain how product may or may not meet your criteria
 * Offer concrete evidence and contrast with similar products if possible
 
-## Ten Principles of Good Design by Dieter Rams
+### Ten Principles of Good Design by Dieter Rams
 1. **Innovative**
 2. **Makes a product useful**
 3. Aesthetic
