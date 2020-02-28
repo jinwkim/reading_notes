@@ -106,3 +106,6 @@ Recommended prep book for PM interviews, CIRCLES method
 
 #### How would you improve Microsoft PowerPoint?
 * Example of applying CIRCLES method in real-life interview
+
+## Chapter 3 - Designing a Webpage or Website
+
